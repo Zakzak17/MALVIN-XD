@@ -1,5 +1,5 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "Z4CK",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN-XD"],
@@ -85,7 +85,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴍʀ ᴍᴀʟᴠɪɴ"
+      "value": "Z4CK"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+      "value": "Z4CK"
 
       }, 
 
@@ -147,8 +147,8 @@
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_REACT": {
